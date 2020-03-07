@@ -3,7 +3,7 @@
 import React from 'react';
 import {shallow, mount} from 'enzyme';
 import renderer from 'react-test-renderer';
-import ToDo from '../component/todo.js';
+import ToDo from '../components/todo/todo-connected.js';
 import { configure } from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
 
