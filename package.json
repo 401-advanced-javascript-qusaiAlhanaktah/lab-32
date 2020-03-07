@@ -1,5 +1,5 @@
 {
-  "name": "lab-29",
+  "name": "lab-32",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/401-advanced-javascript-qusaiAlhanaktah/lab-31.git"
+    "url": "git+https://github.com/401-advanced-javascript-qusaiAlhanaktah/lab-32.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/401-advanced-javascript-qusaiAlhanaktah/lab-31/issues"
+    "url": "https://github.com/401-advanced-javascript-qusaiAlhanaktah/lab-32/issues"
   },
   "homepage": "/",
   "dependencies": {
